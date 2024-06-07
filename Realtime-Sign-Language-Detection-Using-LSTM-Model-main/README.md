@@ -21,7 +21,7 @@ The demo allows viewers to see how the system accurately interprets sign languag
 
 
 
-![Neural Network](https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model/assets/32614982/2adabb2c-db8e-47a3-a7ae-f2ce7175cc82)
+
 
 
 
