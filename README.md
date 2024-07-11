@@ -13,7 +13,11 @@
 This section showcases a demonstration of the Realtime Sign Language Detection Using LSTM Model project.
 
 
-https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model/assets/32614982/16bd1d47-cc3f-488c-8d0e-e400004dc716
+
+https://github.com/aaronsam07/Sign-Language-Recognition/assets/83818661/583a582e-30e3-4bfa-ac2a-bd043d058b0e
+
+
+
 
 
 The demo allows viewers to see how the system accurately interprets sign language gestures and provides real-time results.
